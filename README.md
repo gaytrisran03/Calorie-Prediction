@@ -31,6 +31,7 @@ The dataset comprises exercise and user data, including features like age, heigh
 - Utilized various plots to understand the data distribution, correlations, and trends.
 - Key plots include:
   - Count plot for gender distribution.
+    
     ![Screenshot_52](https://github.com/gaytrisran03/Calorie-Prediction/assets/78645392/bac88bb9-304c-41ff-9d8c-3780f1d51f1e)
 
   - Distribution plots for
