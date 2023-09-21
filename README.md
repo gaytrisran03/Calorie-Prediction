@@ -35,12 +35,15 @@ The dataset comprises exercise and user data, including features like age, heigh
 
   - Distribution plots for
     - Age
+    
       ![Screenshot_50](https://github.com/gaytrisran03/Calorie-Prediction/assets/78645392/32e54149-6f67-4692-9369-422e10025db6)
 
     - Height
+      
       ![Screenshot_51](https://github.com/gaytrisran03/Calorie-Prediction/assets/78645392/94c69c4e-a495-4828-960d-74859e916eed)
 
     - Weight
+      
       ![Screenshot_54](https://github.com/gaytrisran03/Calorie-Prediction/assets/78645392/a2852849-e027-46c3-afed-71637d27c5a6)
 
 ## Model Training
@@ -51,9 +54,11 @@ The dataset comprises exercise and user data, including features like age, heigh
 ## Model Evaluation
 
 - Assessed model performance using Mean Absolute Error (MAE) as the evaluation metric.
+  
   ![Screenshot_48](https://github.com/gaytrisran03/Calorie-Prediction/assets/78645392/4b2e51c1-3504-4918-b1fd-c7ad9274f34e)
 
 - Compared the performance of different regression models.
+  
   ![Screenshot_53](https://github.com/gaytrisran03/Calorie-Prediction/assets/78645392/d18b6b65-eae7-4b8a-b983-b303cf4a2137)
 
 ## Conclusion
